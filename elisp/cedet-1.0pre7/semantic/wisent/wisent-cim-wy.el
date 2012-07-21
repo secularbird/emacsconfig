@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2002 David Ponce
 
-;; Author: zelos <zelos@zelos-laptop>
-;; Created: 2011-02-17 21:58:27+0800
+;; Author: zhuangyao <zhuangyao@zhuangyao-desktop>
+;; Created: 2012-07-21 20:19:42+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

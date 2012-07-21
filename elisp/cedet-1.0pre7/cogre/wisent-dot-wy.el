@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2003, 2004, 2009 Eric M. Ludlam
 
-;; Author: zelos <zelos@zelos-laptop>
-;; Created: 2011-02-17 21:58:49+0800
+;; Author: zhuangyao <zhuangyao@zhuangyao-desktop>
+;; Created: 2012-07-21 20:26:14+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

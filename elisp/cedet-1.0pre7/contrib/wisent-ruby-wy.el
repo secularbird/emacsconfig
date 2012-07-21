@@ -2,8 +2,8 @@
 
 ;;; Copyright (C) 2007 Daniel Debertin (debertin@gmail.com)
 
-;; Author: zelos <zelos@zelos-laptop>
-;; Created: 2011-02-17 21:58:55+0800
+;; Author: zhuangyao <zhuangyao@zhuangyao-desktop>
+;; Created: 2012-07-21 21:56:21+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 
