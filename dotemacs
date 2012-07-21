@@ -5,6 +5,8 @@
 (add-to-list 'load-path "~/.emacs.d/elisp/autoheader")
 (add-to-list 'load-path "~/.emacs.d/elisp/jdee-2.4.0.1/lisp")
 (add-to-list 'load-path "~/.emacs.d/elisp/elib-1.0")
+(add-to-list 'load-path "~/.emacs.d/elisp/color-theme-6.6.0")
+(add-to-list 'load-path "~/.emacs.d/elisp/tabbar")
 
 
 (load-file "~/.emacs.d/elisp/userinterface-zy.el")
